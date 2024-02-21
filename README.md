@@ -16,7 +16,6 @@ To utilize the code and examples provided in this repository, ensure you have th
 - tensorflow==2.13.0
 
 ## Contributors
-This repository wouldn't have been possible without the contributions of several dedicated individuals:
 
 - Lillian Pierson
 - Adam Geitgey
