@@ -27,9 +27,6 @@ To utilize the code and examples provided in this repository, ensure you have th
 - Xuemeng Song
 - Liqiang Nie
 
-## Acknowledgments
-Special thanks to all contributors for their invaluable efforts in making this tutorial on recommender systems possible.
-
 ## How to Use
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed, preferably version 3.11.5.
